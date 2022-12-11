@@ -1,4 +1,4 @@
-# TeoriaJuegosPodadoAlfa-Beta_VanessaLara
+# TeoriaJuegos_PodadoAlfa-Beta
 
 Completa el ejercicio en el siguiente cuaderno:
 https://colab.research.google.com/drive/1Uy6E73qJXMX8YXHF_2rW28WoSv3KCVYu?usp=sharing
